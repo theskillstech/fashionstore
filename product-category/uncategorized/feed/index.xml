@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized</title>
+	<atom:link href="httpgithub.com/theskillstech/fashionstore/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>httpgithub.com/theskillstech/fashionstore</link>
+	<description></description>
+	<lastBuildDate>Tue, 18 Jul 2023 16:16:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Short Sleeve T-Shirt</title>
+		<link>httpgithub.com/theskillstech/fashionstore/product/short-sleeve-t-shirt/</link>
+					<comments>httpgithub.com/theskillstech/fashionstore/product/short-sleeve-t-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[fashionstore]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2023 16:14:17 +0000</pubDate>
+				<guid isPermaLink="false">httpgithub.com/theskillstech/fashionstore/?post_type=product#038;p=57</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Qui, explicabo eius nisi fugit repudiandae, quos voluptates, beatae ullam consectetur ducimus itaque! Tempore provident eligendi sed ipsum ea. Reiciendis nulla neque sapiente, totam veritatis non? Odio, quaerat.
+
+</div>]]></description>
+										<content:encoded><![CDATA[<p><strong>Eum culpa assumenda</strong></p>
+<p>&nbsp;</p>
+<p><img decoding="async" fetchpriority="high" class="alignnone size-full wp-image-58" src="httpgithub.com/theskillstech/fashionstore/wp-content/uploads/2023/07/5-1.jpg" alt="" width="330" height="330" />eligendi fugit laborum vitae odit deleniti illo quasi voluptates, ipsa, placeat, quaerat, omnis nisi. Repellendus reprehenderit temporibus optio, unde enim vel dignissimos! Deleniti sed perferendis quod ratione incidunt, quam illo et, nulla delectus. Qui, explicabo eius nisi fugit repudiandae, quos voluptates, beatae ullam consectetur ducimus itaque! Tempore provident eligendi sed ipsum ea. Reiciendis nulla neque sapiente, totam veritatis non? Odio, quaerat.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi voluptates, ipsa, placeat, quaerat, omnis nisi. Repellendus reprehenderit temporibus optio, unde enim vel dignissimos! Deleniti sed perferendis quod ratione incidunt, quam illo et, nulla delectus. Qui, explicabo eius nisi fugit repudiandae, quos voluptates, beatae ullam consectetur ducimus itaque! Tempore provident eligendi sed ipsum ea. Reiciendis nulla neque sapiente, totam veritatis non? Odio, quaerat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httpgithub.com/theskillstech/fashionstore/product/short-sleeve-t-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
